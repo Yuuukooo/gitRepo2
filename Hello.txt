@@ -6,4 +6,7 @@ master
 
 bug resolved!!!!!!
 张三第一次修改代码!!!
+
 老员工李四修改代码!!!
+
+张三创建hot-fix分支，修改bug
